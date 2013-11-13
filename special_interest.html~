@@ -13,7 +13,7 @@
 <!--					}-->
 <!--		</style>-->
 	</head>
-	<body id="tripplanner">
+	<body id="specialinterest">
 
 		<div class = "container">
 
@@ -127,16 +127,15 @@
 				</div><!--column-->
 			</section><!--content row-->
 
-
 <div class="content row">
 	<div class="col-lg-6">
 	<div class="fluid">
 				<div class="top">
 					<img src="">
 				</div>
-				<img src="images/Tarom_tn.jpg" alt="Getting here and around" />
+				<img src="images/Painted_Eggs_tn.jpg" alt="Traditions & Folklore" />
 				<section class="inner">
-					<a href="#" >Getting here and around</a>
+					<a href="#" >Traditions & Folklore</a>
 							<p>This website is intended to assist travelers who are planning to visit Romania or would like
 to learn more about Romania.Black Sea; from Southern Transylvania to Bucovina or Maramures. Take a step back in time
 as you visit one of the world's famous painted monasteries in Bucovina, the ancient, hilltop citadel in Sighisoara or an authentic, centuries-old, folkloric village in Maramures.</p>
@@ -152,9 +151,9 @@ as you visit one of the world's famous painted monasteries in Bucovina, the anci
 				<div class="top">
 					<img src="">
 				</div>
-				<img src="images/CFR_tn.jpg" alt="Transportation" />
+				<img src="images/Sighisoara_Medieval_Festival_tn.jpg" alt="Festivals & Events" />
 				<section class="inner">
-					<a href="#" >Transportation</a>
+					<a href="#" >Festivals & Events</a>
 							<p>This website is intended to assist travelers who are planning to visit Romania or would like
 to learn more about Romania.Black Sea; from Southern Transylvania to Bucovina or Maramures. Take a step back in time
 as you visit one of the world's famous painted monasteries in Bucovina, the ancient, hilltop citadel in Sighisoara or an authentic, centuries-old, folkloric village in Maramures.</p>
@@ -172,9 +171,9 @@ as you visit one of the world's famous painted monasteries in Bucovina, the anci
 				<div class="top">
 					<img src="">
 				</div>
-				<img src="images/Map_tn.jpg" alt="Itinerary Ideas" />
+				<img src="images/Wine_tn.jpg" alt="Food & Wine" />
 				<section class="inner">
-					<a href="#" >Itinerary Ideas</a>
+					<a href="#" >Food & Wine</a>
 							<p>This website is intended to assist travelers who are planning to visit Romania or would like
 to learn more about Romania.Black Sea; from Southern Transylvania to Bucovina or Maramures. Take a step back in time
 as you visit one of the world's famous painted monasteries in Bucovina, the ancient, hilltop citadel in Sighisoara or an authentic, centuries-old, folkloric village in Maramures.</p>
@@ -190,9 +189,9 @@ as you visit one of the world's famous painted monasteries in Bucovina, the anci
 				<div class="top">
 					<img src="">
 				</div>
-				<img src="images/Hotel_Interior_tn.jpg" alt="Distinctive Accommodations" />
+				<img src="images/Mogosoaia_Palace_tn.jpg" alt="Architecture" />
 				<section class="inner">
-					<a href="#" >Distinctive Accommodations</a>
+					<a href="#" >Architecture</a>
 							<p>This website is intended to assist travelers who are planning to visit Romania or would like
 to learn more about Romania.Black Sea; from Southern Transylvania to Bucovina or Maramures. Take a step back in time
 as you visit one of the world's famous painted monasteries in Bucovina, the ancient, hilltop citadel in Sighisoara or an authentic, centuries-old, folkloric village in Maramures.</p>
@@ -212,9 +211,9 @@ as you visit one of the world's famous painted monasteries in Bucovina, the anci
 				<div class="top">
 					<img src="">
 				</div>
-				<img src="images/Wine_tn.jpg" alt="Practical information" />
+				<img src="images/Wine_tn.jpg" alt="Count Dracula Legend" />
 				<section class="inner">
-					<a href="#" >Practical information</a>
+					<a href="#" >Count Dracula Legend</a>
 							<p>This website is intended to assist travelers who are planning to visit Romania or would like
 to learn more about Romania.Black Sea; from Southern Transylvania to Bucovina or Maramures. Take a step back in time
 as you visit one of the world's famous painted monasteries in Bucovina, the ancient, hilltop citadel in Sighisoara or an authentic, centuries-old, folkloric village in Maramures.</p>
@@ -230,9 +229,9 @@ as you visit one of the world's famous painted monasteries in Bucovina, the anci
 				<div class="top">
 					<img src="">
 				</div>
-				<img src="images/Pasaport_tn.jpg" alt="Entry Requirements" />
+				<img src="images/AFI_Palace_tn.jpg" alt="University Square" />
 				<section class="inner">
-					<a href="#" >Entry Requirements</a>
+					<a href="index.html" >home</a>
 							<p>This website is intended to assist travelers who are planning to visit Romania or would like
 to learn more about Romania.Black Sea; from Southern Transylvania to Bucovina or Maramures. Take a step back in time
 as you visit one of the world's famous painted monasteries in Bucovina, the ancient, hilltop citadel in Sighisoara or an authentic, centuries-old, folkloric village in Maramures.</p>
@@ -244,8 +243,6 @@ as you visit one of the world's famous painted monasteries in Bucovina, the anci
 </div>
 
 </div>
-
-
 
 
 

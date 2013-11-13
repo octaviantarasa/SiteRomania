@@ -13,7 +13,7 @@
 <!--					}-->
 <!--		</style>-->
 	</head>
-	<body id="multimedia">
+	<body id="whattodo">
 
 		<div class = "container">
 
@@ -91,12 +91,9 @@
 
 																	<a href="special_interest.html" class = "dropdown-toggle" >Special Interest</a>
 																	<ul class = "dropdown-menu">
-																		<li><a href= "#">Traditions & Folklore</a></li>
-																		<li><a href= "#">Festivals & Events</a></li>
-																		<li><a href= "#">Food & Wine</a></li>
-																		<li><a href= "#">Architecture</a></li>
-																		<li><a href= "#">Count Dracula Legend</a></li>
-																		<li><a href= "#">Shopping</a></li>
+																		<li><a href= "#">Images</a></li>
+																		<li><a href= "#">Videos</a></li>
+																		<li><a href= "#">Download Images</a></li>
 																	</ul>
 
 															</li>
